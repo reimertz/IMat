@@ -1,0 +1,3 @@
+# Ignore tests and builds
+test/*
+build/*
